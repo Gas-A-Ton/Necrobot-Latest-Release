@@ -1,0 +1,2 @@
+# Necrobot-Latest-Release
+-various bug fixes, humanized walking and catching, speed now changes randomly to emulate humans more closely. (tip: stay away from central park or other busy areas that are 50 miles or more from your present location. Also leave the humanization settings the same. WARNING: If you change the humanization settings you do so at your own risk. Every account that I botted without them got perma-banned.) Happy Botting:)
